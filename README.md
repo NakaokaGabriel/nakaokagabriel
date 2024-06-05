@@ -12,6 +12,7 @@
 <p align="center">
 
 - **Languages**:
+
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -21,6 +22,7 @@
 <br>  
 
 - **Frameworks an Libs**:
+
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
     ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
