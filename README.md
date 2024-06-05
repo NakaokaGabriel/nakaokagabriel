@@ -8,13 +8,10 @@
 - 📫 How to reach me: gabrielnakaoka_99@hotmail.com or +55 (11) 99536-1829
 
 ## <b> Skills</b>
-<br> 
 
 <p align="center">
 
 - **Languages**:
-<br>
-    
     ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
     ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
     ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
@@ -24,8 +21,6 @@
 <br>  
 
 - **Frameworks an Libs**:
-<br>
-    
     ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
     ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
     ![Next](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) 
@@ -37,7 +32,6 @@
 <br>  
 
 - **Databases**:
-<br>
     
     ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) 
     ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql) 
@@ -53,7 +47,7 @@
 <br>  
 
 ## <b> Contact</b>
-<br> <br> 
+<br>
 
 <div>
 <a href = "mailto:contato@gabrielnakaoka_99@hotmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
