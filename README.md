@@ -47,7 +47,6 @@
 <br>  
 
 - **System**:
-<br>
     
     ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 
