@@ -1,11 +1,10 @@
 ## Hi there 👋 My Name's Gabriel.
 
-- 🔭 I’m currently working on projects that's involves technologies how: 
-- 🌱 I’m currently learning diversify technologies and a little bit of clouds
-- 👯 I’m looking to collaborate on projects with friends
-- 🤔 I’m looking for help with money 💸 (Just kidding)
-- 💬 Ask me about things that interest me
-- 📫 How to reach me: gabrielnakaoka_99@hotmail.com or +55 (11) 99536-1829
+- 🔭 Working in new projects.
+- 🌱 Learning new technologies.
+- 🤔 Search for money? It can be mine!
+- 💬 If you ask me, I'll try help you.
+- 📫 Reach on email: gabrielnakaoka_99@hotmail.com
 
 ## <b> Skills</b>
 
